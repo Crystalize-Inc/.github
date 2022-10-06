@@ -4,4 +4,11 @@ At Crystalize, we are dedicated to further pushing innovation in Web 3. We opera
 ## Crystalize Training Cohorts
 A highly selective program made for the new generation of builders. A cohort is 12 weeks long, with extensive training programming intended for Web 2 developers to make them well-equipped in Blockchain principals, Solidity, EVM (Ethereum Virtual Machine) operations,dApp development, common security pitfalls, and auditing techniques. 
 
+-- add more details about cohort - quiz, material, assignments, and guest lectures capstone projects
+
+We just completed our first cohot (June 2022 - September 2022), and the results were exciting to say the least! Look at what our amazing participants have made for their capstone project!
+
+https://fusion-finance.vercel.app/
+
+
 
