@@ -8,7 +8,7 @@ A highly selective program made for the new generation of builders. A cohort is 
 
 We just completed our first cohot (June 2022 - September 2022), and the results were exciting to say the least! Look at what our amazing participants have made for their capstone project!
 
-![Fusion Fianance Image](https://drive.google.com/file/d/1nvhqeviUFY6DXkyeLKXXgVmdU22ybw6Y/)
+![Fusion Fianance Image](https://drive.google.com/file/d/1nvhqeviUFY6DXkyeLKXXgVmdU22ybw6Y/fusion-finance.png)
 [Fusion Finance](https://fusion-finance.vercel.app/)
 
 
