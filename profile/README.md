@@ -12,7 +12,7 @@ We just completed our first cohort (June 2022 - September 2022), and the results
 ![Fusion Fianance Image](./../images/fusion-finance.png)
 
 ### [True Yield](https://trueyield.netlify.app/) by Umair Mirza
-![True Yield Image]()
+![True Yield Image](./../images/true-yield.png)
 
 ### [Yield Farm](https://yieldcomp.vercel.app/) by Ikechukwu Ahiara
 ![Yield Farm Image]()
