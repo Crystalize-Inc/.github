@@ -1,8 +1,8 @@
 # Hi! this is us.
-At Crystalize, we are dedicated to further pushing innovation in Web 3. We operate via research, auditing, recruiting, and training programs to contribute towards the growth of the entire Web 3 ecosystem. You can check us out at https://crystalize.dev/. 
+At Crystalize, we are dedicated to further pushing innovation in Web 3. We operate via research, recruiting, and training programs to contribute towards the growth of the entire Web 3 ecosystem. You can check us out at https://crystalize.dev/. 
 
-## Crystalize Training Cohorts
-A highly selective program made for the new generation of builders. A cohort is 12 weeks long, with extensive training programming intended for Web 2 developers to make them well-equipped in Blockchain principals, Solidity, EVM (Ethereum Virtual Machine) operations,dApp development, common security pitfalls, and auditing techniques. 
+## Crystalize Alpha Cohort
+A highly selective program made for the new generation of builders. A cohort 12 weeks long, with extensive training programming intended for Web 2 developers to make them well-equipped in Blockchain principals, Solidity, EVM (Ethereum Virtual Machine) operations, dApp development, common security pitfalls, and auditing techniques. 
 
 During the cohort, participants are provided reading material, excercises, quizes, and assignments from Solidity basics to auditing tools. They have support from mentors duting these weeks to help them with their problems. In the last four weeks, participants work on their capstone project. They go from design doc to deployment including peer audits.
 
