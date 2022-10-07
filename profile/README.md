@@ -9,7 +9,7 @@ During the cohort, participants are provided reading material, excercises, quize
 We just completed our first cohort (June 2022 - September 2022), and the results were exciting to say the least! Look at what our amazing participants have made for their capstone project!
 
 ### [Fusion Finance](https://fusion-finance.vercel.app/) by John Nyugen
-![Fusion Fianance Image](./../images/fusion-finance.png)
+![Fusion Fianance Image](https://github.com/Crystalize-Inc/.github/blob/99d6f661cad7718570a948ddc2da43b6b0bb15a0/images/fusion-finance.png)
 
 ### [True Yield](https://trueyield.netlify.app/) by Umair Mirza
 ![True Yield Image](./../images/true-yield.png)
