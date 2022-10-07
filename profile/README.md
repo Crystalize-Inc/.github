@@ -15,7 +15,7 @@ We just completed our first cohort (June 2022 - September 2022), and the results
 ![True Yield Image](./../images/true-yield.png)
 
 ### [Yield Farm](https://yieldcomp.vercel.app/) by Ikechukwu Ahiara
-![Yield Farm Image]()
+![Yield Farm Image](./../images/yield-farm.png)
 
 
 
