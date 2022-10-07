@@ -15,7 +15,7 @@ We just completed our first cohort (June 2022 - September 2022), and the results
 ![True Yield Image](https://github.com/Crystalize-Inc/.github/blob/0c980658664a5a5bdd6090545cb72406d1af070d/images/true-yield.png)
 
 ### [Yield Farm](https://yieldcomp.vercel.app/) by Ikechukwu Ahiara
-![Yield Farm Image](./../images/yield-farm.png)
+![Yield Farm Image](https://github.com/Crystalize-Inc/.github/blob/ea4e9cbf0557c2911282778715453434f568d2f7/images/yield-farm.png)
 
 
 
